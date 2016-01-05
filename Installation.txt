@@ -1,0 +1,3 @@
+Go to software folder, click on AccountingSoftware.sln
+
+install  SQL server management studio and attach Final_Account.mdf
